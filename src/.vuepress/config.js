@@ -1,4 +1,12 @@
 module.exports = {
+  plugins: [
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-138258103-1' // UA-00000000-0
+      }
+    ]
+  ],
   locales: {
     '/': {
       lang: 'ja',
@@ -61,7 +69,7 @@ module.exports = {
     }],
     ['meta', {
       name: "keywords",
-      content: "Twitch, 配信, ガイド,　OBS, Streamlabs"
+      content: "Twitch, 配信, ガイド, OBS, Streamlabs"
     }],
     ['meta', {
       name: "og:title",
@@ -73,11 +81,11 @@ module.exports = {
     }],
     ['meta', {
       name: "og:type",
-      content: "website"
+      content: "How-To-Streamers-Guide"
     }],
     ['meta', {
       name: "og:url",
-      content: "og　url"
+      content: "https://how-to-streamers-guide.netlify.com/"
     }],
     ['meta', {
       name: "og:image",
