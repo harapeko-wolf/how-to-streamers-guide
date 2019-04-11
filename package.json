@@ -1,0 +1,14 @@
+{
+  "name": "vuepress-twitch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "markdown-it-fontawesome": "^0.3.0",
+    "vuepress": "^1.0.0-alpha.44"
+  },
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  }
+}
