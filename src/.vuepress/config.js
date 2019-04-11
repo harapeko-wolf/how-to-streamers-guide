@@ -2,7 +2,7 @@ module.exports = {
   locales: {
     '/': {
       lang: 'ja',
-      title: 'Twitch Streamers Guide',
+      title: 'How To Streamers Guide',
       description: 'Twitch OBS Streamlabs 配信 ツール ガイド'
     }
   },
