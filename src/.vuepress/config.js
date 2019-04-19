@@ -81,7 +81,7 @@ module.exports = {
     }],
     ['meta', {
       name: "og:type",
-      content: "How-To-Streamers-Guide"
+      content: "website"
     }],
     ['meta', {
       name: "og:url",
@@ -89,7 +89,7 @@ module.exports = {
     }],
     ['meta', {
       name: "og:image",
-      content: "/HTSG_OGP.png"
+      content: "https://how-to-streamers-guide.netlify.com/HTSG_OGP.png"
     }]
   ],
   themeConfig: {
