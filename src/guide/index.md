@@ -66,8 +66,8 @@ OBS Studio 0.16.0 以降では AMD VCE が追加でサポートされていま�
 高速で信頼性が高く、機能満載のストリーミングアプリです。
 プロのストリーマーのために構築された信頼性が高く、設定が簡単なデスクトップストリーミングアプリケーションで配信をレベルアップさせます。
 
-streamlabs が開発した Streamlabs OBS は、Streamlabels、Twitch Chat、Twitch Dashboard / Video、Streamlabs Dashboard、OBS などの複数のウィンドウをライブビューに組み合わせることで
-`CPU と RAM を 25％節約できます。`
+streamlabs が開発した Streamlabs OBS は、Streamlabels、Twitch Chat、Twitch Dashboard / Video、Streamlabs Dashboard、OBS などの複数のウィンドウをライブビューに組み合わせることで なんと！
+`CPU と RAM を 25％節約できます！`
 
 <mark>幸運なことに、win10 をお持ちのあなたは、Streamlabs OBS の使用ができます。</mark>
 おめでとう 👍

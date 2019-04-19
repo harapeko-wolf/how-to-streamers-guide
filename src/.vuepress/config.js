@@ -89,7 +89,7 @@ module.exports = {
     }],
     ['meta', {
       name: "og:image",
-      content: "/android-chrome-512x512.png"
+      content: "/HTSG_OGP.png"
     }]
   ],
   themeConfig: {
